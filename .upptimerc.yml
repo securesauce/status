@@ -11,6 +11,7 @@ sites:
     url: https://api.securesauce.dev/
   - name: Precaution
     url: https://precaution.herokuapp.com/
+    icon: https://raw.githubusercontent.com/securesauce/status/master/assets/precaution.ico
   - name: Database
     check: "tcp-ping"
     url: $DATABASE_URL
