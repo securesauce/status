@@ -15,6 +15,7 @@ sites:
     check: "tcp-ping"
     url: $DATABASE_URL
     port: 5432
+    icon: https://raw.githubusercontent.com/securesauce/status/master/assets/PostgreSQ.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
