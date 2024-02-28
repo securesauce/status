@@ -3,10 +3,18 @@ repo: status
 sites:
   - name: Website
     url: https://www.securesauce.dev/
-  - name: Documentation site
+  - name: Documentation
     url: https://docs.securesauce.dev/
-  - name: Blog site
+  - name: Blog
     url: https://blog.securesauce.dev/
+  - name: API
+    url: https://api.securesauce.dev/
+  - name: Precaution
+    url: https://precaution.herokuapp.com/
+  - name: Database
+    check: "tcp-ping"
+    url: $DATABASE_URL
+    port: 5432
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
