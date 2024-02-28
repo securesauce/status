@@ -24,8 +24,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/securesauce/securesauce.github.io/main/public/images/precaution.svg
   name: Precaution
   navbar:
-    - title: Status
-      href: /
+    - title: HOME
+      href: https://www.securesauce.dev/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
