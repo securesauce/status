@@ -21,8 +21,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.securesauce.dev
+  #baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/securesauce/securesauce.github.io/main/public/images/precaution.svg
   name: Precaution
   navbar:
