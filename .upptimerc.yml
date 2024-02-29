@@ -25,6 +25,7 @@ status-website:
   #baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/securesauce/status/master/assets/precaution.png
   name: ""
+  favicon: https://raw.githubusercontent.com/securesauce/status/master/assets/precaution.ico
   navbar:
     - title: HOME
       href: https://www.securesauce.dev/
