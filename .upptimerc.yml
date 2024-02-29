@@ -30,7 +30,7 @@ status-website:
     - title: HOME
       href: https://www.securesauce.dev/
 i18n:
-  footer: ""
+  footer: Copyright © 2024 Secure Sauce LLC All rights reserved.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
